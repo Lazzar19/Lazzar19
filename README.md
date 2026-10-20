@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Applied Computer Science</b> student @ <b>Faculty of Technical Sciences, Novi Sad</b><br/>
-  Mostly focused on <b>systems programming</b>
+  Interested in systems programming, backend infrastructure and distributed systems.</b>
 </p>
 
 <br/>
@@ -12,7 +12,7 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,rust,go,cs,js,ts,py&perline=8" />
 </p>
 
-<h3 align="center">Web technologies</h3>
+<h3 align="center">Frameworks & Runtime</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,dotnet&perline=8" />
 </p>
