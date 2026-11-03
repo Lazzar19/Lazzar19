@@ -2,7 +2,24 @@
 
 <p align="center">
   <b>Applied Computer Science</b> student @ <b>Faculty of Technical Sciences, Novi Sad</b><br/>
-  Interested in systems programming, backend infrastructure and distributed systems.</b>
+  Interested in systems programming, backend infrastructure and distributed systems.
+</p>
+
+<br/>
+
+<h3 align="center">Personal projects</h3>
+<p align="center">
+  <a href="https://github.com/Lazzar19/Webcrawler"><b>Webcrawler</b></a> — concurrent web crawler (Node.js)<br/>
+  <a href="https://github.com/Lazzar19/TIAC-internship"><b>TIAC-internship</b></a> — ASP.NET Core REST API with Redis caching<br/>
+  <a href="https://github.com/Lazzar19/mini-shell"><b>mini-shell</b></a> — Unix-like shell in Rust<br/>
+  <a href="https://github.com/Lazzar19/go-concurrency-lab"><b>go-concurrency-lab</b></a> — Go concurrency experiments and benchmarks<br/>
+  <a href="https://github.com/Lazzar19/ChessEngine"><b>ChessEngine</b></a> — bitboard chess engine in C++
+</p>
+
+<h3 align="center">Hackathons</h3>
+<p align="center">
+  <b>AI4Society</b> — <a href="https://github.com/damnilo/AI4Society-Hackathon"><b>NaŠalter</b></a> · <a href="https://nasalter.onrender.com/">live demo</a><br/>
+  <b>Cursor Hackathon</b> — <a href="https://github.com/damnilo/Cursor-Hackathon"><b>FirstContrib</b></a>
 </p>
 
 <br/>
