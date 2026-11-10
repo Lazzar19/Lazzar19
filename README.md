@@ -10,7 +10,7 @@
 
 <h3 align="center">Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,rust,go,cs,js,ts,py&perline=8" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,go,cs&perline=8" />
 </p>
 
 <h3 align="center">Frameworks & Runtime</h3>
